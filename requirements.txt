@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch==2.1.2+cpu
+flwr==1.12.0
+pandas==2.2.2
+scikit-learn==1.5.1
+igraph==0.11.6
+prometheus_client==0.14.1
